@@ -8,6 +8,9 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+##hOW TO CONTRIBUTE
+FORK AND ENJOY
+
 ## new deployment
 #into is here
 
