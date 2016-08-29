@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 tihs is something that i like doing.
 
 ## my local changes
+
+Git Copyright 2014 Comment 2
