@@ -15,4 +15,4 @@ tihs is something that i like doing.
 
 ## my local changes
 
-Git Copyright 2014
+Git Copyright 2014 Comment 2
