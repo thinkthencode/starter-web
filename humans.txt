@@ -12,5 +12,5 @@ THis is a Vrazy team.
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
+    HTML5, CSS3, C#, Stash BRanch
     jQuery, Modernizr
